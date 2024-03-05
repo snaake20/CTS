@@ -1,0 +1,2 @@
+[INFO] - Ceva
+[WARNING] - Altceva
